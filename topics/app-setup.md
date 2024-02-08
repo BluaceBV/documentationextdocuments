@@ -8,7 +8,7 @@ Do you want additional information on you Purchase, sales and jobs documents, wi
 
 ## Extended Documents Setup
 
-### Report Layotu Settings
+### Report Layout Settings
 To set the Extended Document Text as the default report layout for the specific reports go to the Report Layout page and select the required Report ID layout.
 
 1.	Choose the search icon, enter Report Layouts and choose the related link.
